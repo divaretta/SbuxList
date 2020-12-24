@@ -24,22 +24,25 @@
         android:id="@+id/tv_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/bebas_font"
+        android:gravity="center"
         android:text="@string/product_name"
+        android:textColor="#000000"
         android:textSize="@dimen/_16sp"
         android:textStyle="bold"
-        android:gravity="center"
-        app:layout_constraintTop_toBottomOf="@+id/iv_list_sbux"/>
+        app:layout_constraintTop_toBottomOf="@+id/iv_list_sbux" />
 
     <TextView
         android:id="@+id/tv_desc"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ellipsize="end"
+        android:fontFamily="@font/bebas_font"
         android:gravity="center"
         android:maxLines="2"
         android:text="@string/desc"
+        android:textColor="#000000"
         android:textSize="@dimen/_12sp"
-        app:layout_constraintTop_toBottomOf="@+id/tv_name"
-         />
+        app:layout_constraintTop_toBottomOf="@+id/tv_name" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
