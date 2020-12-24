@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name" translatable="false">SbuxList</string>
+    <string name="product_name" translatable="false">Product</string>
+    <string name="desc" translatable="false">Description</string>
+    <string-array name="data_name">
+        <item>Espresso Con Panna</item>
+        <item>Caffe Mocha</item>
+        <item>Caffe Latte</item>
+        <item>Coffee Frappe</item>
+        <item>Espresso Frappe</item>
+        <item>Mocha Frappe</item>
+        <item>Caramel Frappe</item>
+        <item>Hazelnut Frappe</item>
+        <item>Java Chip Frappe</item>
+        <item>Asian Dolce Frappe</item>
+        <item>Dark Mocha Frappe</item>
+        <item>Caramel Java Chip Frappe</item>
+        <item>Caramel Coffee Jelly Frappe</item>
+        <item>Mocha Jelly Frappe</item>
+        <item>Vanilla Cream Frappe</item>
+        <item>Caramel Cream Frappe</item>
+        <item>Double Chocolate Frappe</item>
+        <item>Green Tea Cream Frappe</item>
+        <item>Cocoa Cappuccino</item>
+        <item>Caramel Macchiato</item>
+        <item>Cappuccino</item>
+        <item>Espresso Macchiato</item>
+        <item>Flat White</item>
+        <item>Ristretto Bianco</item>
+        <item>Vanilla Sweet Cream Cold Brew</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> The delicate dollop of whipped cream softens the rich and caramelly espresso flavours so exquisitely, you may choose to forego adding sugar altogether. </item>
+        <item> Espresso, concentrated form of coffee served in small, strong shots and is the base for many coffee drinks with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful. </item>
+        <item> Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.</item>
+        <item> Starbucks® uses the highest quality arabica coffee as the base for its beloved drinks. The coffee is blended with nonfat milk and ice for a sip on the light side.</item>
+        <item> Coffee is combined with a shot of espresso and milk, then blended with ice to give you a nice little jolt and lots of sipping joy. </item>
+        <item> Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor thatll leave you wanting more. </item>
+        <item> Buttery caramel syrup meets coffee, milk and ice for a rendezvous in the blender. Then whipped cream and caramel sauce layer the love on top. </item>
+        <item> Coffee blended with toffee nut syrup, milk and ice. Topped with hazelnut drizzle. </item>
+        <item> We blend mocha sauce and Frappuccino® chips with coffee and milk and ice, then top with whipped cream and mocha drizzle to bring you endless java joy. </item>
+        <item> Double-shots of the premium, dark- roasted Starbucks Espresso Roast, with blended ice, combine with the uniquely developed dolce sauce. </item>
+        <item> For serious chocolate lovers: We blend dark cocoa with milk, ice and coffee for an extraordinarily chocolate experience thats then topped with a swirl of whipped cream. </item>
+        <item> Java Chip Frappuccino® with a swirl of caramel sauce on top. </item>
+        <item> A marvel of three delicious layers – innovative coffee jelly, creamy caramel Frappuccino blended with milk, coffee and ice finished with a fluffy cloud of whipped cream topped with caramel drizzle. </item>
+        <item> Mocha sauce, Frappuccino® roast coffee, coffee jelly, milk and ice all come together for a delicious mocha flavor. </item>
+        <item> This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes va-va-vanilla flavor to another level. To change things up, try it Affogato-style by adding an Affogato-style shot: a hot espresso shot poured right over the top. </item>
+        <item> Milk blended with caramel sauce and ice then topped with whipped cream and caramel drizzle. </item>
+        <item> Rich mocha-flavored sauce meets up with chocolate chips, milk and ice for a blender bash. Top it off with sweetened whipped cream and mocha drizzle for a real party in your mouth. </item>
+        <item> We blend sweetened premium matcha green tea, milk and ice and top it with sweetened whipped cream to give you a delicious boost of energy. </item>
+        <item> A cappuccino has a good balance of steamed milk and espresso. Add in a little bittersweet mocha and the flavour becomes something else. Coffee always pairs well with chocolate. Another big part of the cappuccinos charm is the dense and velvety foam. We dust some cocoa powder and lay chocolate drizzle on the thick foam and the transformation is complete. </item>
+        <item> Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summers day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; its then topped with our proprietary buttery caramel sauce. Sweet! </item>
+        <item> Espresso with steamed milk, topped with a deep layer of foam. </item>
+        <item> Sometimes a touch is just enough. And so it is with the slight dab of foam we set atop our signature espresso in this classic European-style beverage. </item>
+        <item> Expertly steamed milk poured over a double shot of our signature espresso and finished with a thin layer of velvety microfoam. </item>
+        <item> Bold espresso and pure velvet texture. A product of simplicity, crafted into artistry, our baristas know that balance is key to the perfect Ristretto Bianco. </item>
+        <item> Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup. </item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://www.starbucks.co.id/media/09%20-%20Hot%20Espresso%20Con%20Panna_tcm33-46289_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/03%20-%20Hot%20Caffe%20Mocha_tcm33-46286_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/01%20-%20Hot%20Caffe%20Latte_tcm33-46284_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/33%20-%20Coffee%20Frap_tcm33-46306_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/34%20-%20Espresso%20Frap_tcm33-46307_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/35%20-%20Mocha%20Frap_tcm33-46308_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/36%20-%20Caramel%20Frap_tcm33-46309_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/39%20-%20Hazelnut%20Frap_tcm33-46310_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/41%20-%20Java%20Chip%20Frap_tcm33-46312_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/40%20-%20Asian%20Dolce%20Frap_tcm33-46311_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/42%20-%20Dark%20Mocha%20Frap_tcm33-46313_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/43%20-%20Caramel%20Java%20Chip%20Frap_tcm33-46314_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/45%20-%20Caramel%20Coffee%20Jelly%20Frap_tcm33-46316_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/46%20-%20Mocha%20Jelly%20Frap_tcm33-46317_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/54%20-%20Vanilla%20Cream%20Frap_tcm33-46318_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/56%20-%20Caramel%20Cream%20Frap_tcm33-46319_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/58%20-%20Double%20Chocolate%20Cream%20Frap_tcm33-46320_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/59%20-%20Green%20Tea%20Cream%20Frap_tcm33-46321_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/14%20-%20Hot%20Cocoa%20Cappuccino_tcm33-46294_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/04%20-%20Hot%20Caramel%20Macchiato_tcm33-46287_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/02%20-%20Hot%20Cappucino_tcm33-46285_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/10%20-%20Hot%20Espresso%20Macchiato_tcm33-46290_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/12%20-%20Hot%20Flat%20White_tcm33-46292_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/17%20-%20Hot%20Ristretto%20Bianco_tcm33-46295_w1024_n.jpg </item>
+        <item>https://www.starbucks.co.id/media/30%20-%20Vanilla%20Sweet%20Cream%20Cold%20Brew_tcm33-46296_w1024_n.jpg </item>
+    </string-array>
+</resources>
